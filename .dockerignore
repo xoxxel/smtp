@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.orig
+*.log
+.env
+.venv
+venv/
+.idea/
+.vscode/
+.git/
+.gitignore
+Dockerfile
+captain-definition
+README.md
